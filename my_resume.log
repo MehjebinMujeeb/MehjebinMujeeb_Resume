@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.14)  17 APR 2018 15:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.14)  17 APR 2018 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -713,23 +713,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
-[1
+LaTeX Font Info:    Try loading font information for U+msa on input line 31.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 31.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pp.jpg>]
-(./my_resume.aux) ) 
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pp.jpg>] (./my_resume.au
+x) ) 
 Here is how much of TeX's memory you used:
- 4431 strings out of 494910
- 58794 string characters out of 6179836
- 131153 words of memory out of 5000000
- 7643 multiletter control sequences out of 15000+600000
- 4562 words of font info for 17 fonts, out of 8000000 for 9000
+ 4459 strings out of 494910
+ 59266 string characters out of 6179836
+ 133153 words of memory out of 5000000
+ 7658 multiletter control sequences out of 15000+600000
+ 6568 words of font info for 26 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  38i,7n,35p,240b,207s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-
-Output written on my_resume.pdf (1 page, 204232 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on my_resume.pdf (1 page, 209389 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
