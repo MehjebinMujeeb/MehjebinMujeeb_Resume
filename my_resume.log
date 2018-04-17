@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.14)  17 APR 2018 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.14)  17 APR 2018 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -786,6 +786,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--133
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+
+ []
+
 [2] [3] (./my_resume.aux) ) 
 Here is how much of TeX's memory you used:
  4476 strings out of 494910
@@ -800,7 +805,7 @@ sfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b>
-Output written on my_resume.pdf (3 pages, 224508 bytes).
+Output written on my_resume.pdf (3 pages, 224756 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
