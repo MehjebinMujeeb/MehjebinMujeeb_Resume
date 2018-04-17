@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.14)  17 APR 2018 15:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.14)  17 APR 2018 15:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -734,6 +734,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pp.jpg>]
@@ -741,7 +746,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 Here is how much of TeX's memory you used:
  4476 strings out of 494910
  59558 string characters out of 6179836
- 134153 words of memory out of 5000000
+ 135153 words of memory out of 5000000
  7672 multiletter control sequences out of 15000+600000
  6568 words of font info for 26 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -750,7 +755,7 @@ Here is how much of TeX's memory you used:
 m/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
 10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on my_resume.pdf (1 page, 219251 bytes).
+Output written on my_resume.pdf (1 page, 220206 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
